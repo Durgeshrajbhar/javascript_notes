@@ -1,0 +1,23 @@
+h1{
+    color:rgb(130, 148, 214);
+    
+    
+}
+body{
+    background-color:#f22 ;
+}
+.maden{
+    color:aqua;
+}
+#box{
+    height: 100px;
+    width:100px;
+    background-color: aquamarine;
+
+}
+div{
+    height:100px;
+    width:100px;
+    background-color: aquamarine;
+    border:2px solid black;
+}
